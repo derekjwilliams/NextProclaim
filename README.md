@@ -1,0 +1,2 @@
+# NextProclaim
+Proclaim using Nextjs
